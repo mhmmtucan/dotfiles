@@ -6,17 +6,6 @@ sudo apt-get -y install --no-install-recommends apt-utils dialog 2>&1
 sudo apt-get install -y \
   curl \
   git \
-  gnupg2 \
-  jq \
-  sudo \
-  openssh-client \
-  less \
-  iproute2 \
-  procps \
-  wget \
-  unzip \
-  apt-transport-https \
-  lsb-release \
   latexmk
 
 # Cleanup
